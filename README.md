@@ -3,7 +3,7 @@
 Hi, I'm Frank! I'm a Dutch 🇳🇱 IT Professional with a passion for 🔁 automation and 🚥 monitoring.
 
 I'm a big fan of opensource software and over the past decade I've been involved in a number of opensource projects such as: 
-- [Zabbix](https://zabbix.com) (Check out my [Zabbix-Template-Exporter](https://github.com/CloudRight/Zabbix-Template-Exporter) & [Application Component Monitoring](https://github.com/CloudRight/Zabbix-ACM) tools)
+- [Zabbix](https://zabbix.com) (Check out my [Zabbix-Configuration-Exporter](https://github.com/CloudRight/Zabbix-Configuration-Exporter) & [Application Component Monitoring](https://github.com/CloudRight/Zabbix-ACM) tools)
 - [Saltstack](https://github.com/saltstack/salt) (I've also written a [bunch of Formulae](https://github.com/syphernl?tab=repositories&q=formula) for Salt)
 - [CloudPosse Terraform modules](https://github.com/Cloudposse?q=%22terraform-%22&type=&language=hcl)
 - [HomeAssistant](https://github.com/home-assistant) (+ various custom integrations)
