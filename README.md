@@ -8,6 +8,7 @@ I'm a big fan of opensource software and over the past decade I've been involved
 - [CloudPosse Terraform modules](https://github.com/Cloudposse?q=%22terraform-%22&type=&language=hcl)
 - [HomeAssistant](https://github.com/home-assistant) (+ various custom integrations)
 - [Laravel](https://laravel.com/) (+ various custom packages)
+- And have created various pull-requests for [several other](https://github.com/pulls?q=is%3Apr+author%3Asyphernl+is%3Amerged) projects
 
 <!-- If you find my stuff useful please consider supporting me as a [Sponsor](https://github.com/sponsors/syphernl) 💓 -->
 
